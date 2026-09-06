@@ -336,6 +336,16 @@ footer {
     color: var(--cor-destaque);
 }
 
+.footer-col .instagram-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.instagram-link svg {
+    flex-shrink: 0;
+}
+
 .copyright {
     text-align: center;
     padding-top: 20px;

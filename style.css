@@ -136,8 +136,8 @@ nav a:hover {
     align-items: center;
     text-align: center;
     padding: 0 20px;
-    background: linear-gradient(rgba(10, 17, 40, 0.8), rgba(10, 17, 40, 0.9)), 
-                url('https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80') center/cover;
+    background: linear-gradient(rgba(10, 17, 40, 0.5), rgba(10, 17, 40, 0.75)),
+                url('images/quadra.jpg') center bottom / cover;
     margin-top: 60px;
 }
 
